@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Dheeraj 👋
 
-<!--
-**dheeraz101/dheeraz101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer focused on privacy-first and offline-first applications.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Thoughts
+Minimal offline note-taking app.
+
+⏱️ NoteKar
+Quick timestamp logger.
+
+🌐 Portfolio
+Personal website.
+
+## Tech Stack
+
+- Flutter
+- Kotlin
+- Material 3
+- SQLite
+- SQLCipher
+- Tailwind CSS
+- React
+- GitHub Actions
+
+## Philosophy
+
+- Privacy First
+- Offline First
+- No unnecessary tracking
+- Simple software
+
+## Contact
+
+Website
+
+GitHub
+
+Email
