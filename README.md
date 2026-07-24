@@ -143,6 +143,12 @@ I believe software should:
 
 ---
 
+## Profile View
+
+![](https://komarev.com/ghpvc/?username=dheeraz101)
+
+---
+
 ## 🌱 Currently Working On
 
 - 📝 Thoughts
