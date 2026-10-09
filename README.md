@@ -1,192 +1,92 @@
-<!--
-================================================================================
-GitHub Profile README
-Author: Dheeraj V
-GitHub: https://github.com/dheeraz101
+<div align="center">
 
-Replace the repository names below with your exact repository names if needed.
-================================================================================
--->
+# Dheeraj V
 
-<h1 align="center">Hi, I'm Dheeraj 👋</h1>
+### Software Developer · Android · Privacy-first software
 
-<p align="center">
-Building <strong>privacy-first</strong>, <strong>offline-first</strong> software that is fast, minimal and designed to last.
-</p>
+I build thoughtful, dependable software with a focus on **privacy**, **offline use**, and **polished experiences**.
 
-<p align="center">
-Android Developer • Open Source Enthusiast • UI/UX Lover
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-dheeraz101-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/dheeraz101)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=safari&logoColor=white)](https://dheeraz.netlify.app)
+[![Email](https://img.shields.io/badge/Email-Contact-111111?style=flat-square&logo=protonmail&logoColor=white)](mailto:dv122.8xno0@aleeas.com)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm an Android developer from India focused on creating software that solves real problems without unnecessary complexity.
+I'm a developer from India who enjoys turning practical problems into software that feels clear, capable, and pleasant to use.
 
-I enjoy building applications that:
+I care about:
 
-- 🔒 Respect user privacy
-- 📴 Work offline whenever possible
-- ⚡ Launch quickly
-- 🎨 Feel polished and intuitive
-- 💾 Give users ownership of their own data
-- ❤️ Are open source and maintainable
+- **Privacy by design** and giving people control of their data
+- **Offline-first** experiences that remain useful without a connection
+- Fast, responsive apps with thoughtful details
+- Simple interfaces and maintainable architecture
+- Open source that's useful beyond the initial release
 
-My design philosophy is heavily inspired by Apple's Human Interface Guidelines while embracing Material Design on Android.
+My interface work draws on Apple’s Human Interface Guidelines and Material Design, with the goal of making each platform feel at home.
 
----
+## Selected work
 
-## 🚀 Featured Projects
+| Project | What it is |
+| --- | --- |
+| [**NoteKar**](https://github.com/dheeraz101/NoteKar) | A notes project focused on a simple, useful writing experience. |
+| [**NoteKar Android**](https://github.com/dheeraz101/NoteKar-Android) | The Android companion to NoteKar. |
+| [**Thoughts**](https://github.com/dheeraz101/Thoughts) | A space for capturing and organizing thoughts. |
 
-> Repository cards update automatically with stars, forks, description and language.
+<div align="center">
 
-<p align="center">
+[![NoteKar](https://github-readme-stats.vercel.app/api/pin/?username=dheeraz101&repo=NoteKar&theme=transparent&hide_border=true)](https://github.com/dheeraz101/NoteKar)
+[![NoteKar Android](https://github-readme-stats.vercel.app/api/pin/?username=dheeraz101&repo=NoteKar-Android&theme=transparent&hide_border=true)](https://github.com/dheeraz101/NoteKar-Android)
+[![Thoughts](https://github-readme-stats.vercel.app/api/pin/?username=dheeraz101&repo=Thoughts&theme=transparent&hide_border=true)](https://github.com/dheeraz101/Thoughts)
 
-[![Thoughts](https://github-stats-extended.vercel.app/api/pin/?username=dheeraz101&repo=Thoughts&theme=transparent&hide_border=true)](https://github.com/dheeraz101/Thoughts)
+</div>
 
-[![NoteKar](https://github-stats-extended.vercel.app/api/pin/?username=dheeraz101&repo=NoteKar&theme=transparent&hide_border=true)](https://github.com/dheeraz101/NoteKar)
+## Toolkit
 
-</p>
+**Mobile**  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=111111)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material_Design-757575?style=flat-square&logo=materialdesign&logoColor=white)
 
-<p align="center">
+**Web**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-[![Empty](https://github-stats-extended.vercel.app/api/pin/?username=dheeraz101&repo=Empty&theme=transparent&hide_border=true)](https://github.com/dheeraz101/Empty)
+**Data & tools**  
+`SQLite` · `SQLCipher` · `WebDAV` · `Git` · `GitHub Actions` · `Android Studio` · `VS Code` · `Figma`
 
-<!-- Add more pinned repository cards below -->
+**Exploring**  
+`Rust` · `Tauri` · `Docker` · `Linux` · Native Android development
 
-</p>
+## GitHub activity
 
----
+<div align="center">
 
-## 💡 Design Philosophy
+[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=dheeraz101&theme=github-compact&hide_border=true&area=true)](https://github.com/dheeraz101)
 
-I believe software should:
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dheeraz101&show_icons=true&hide_border=true&theme=transparent)](https://github.com/dheeraz101)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraz101&layout=compact&hide_border=true&theme=transparent)](https://github.com/dheeraz101)
 
-- Work offline whenever possible
-- Respect user privacy
-- Avoid unnecessary tracking
-- Stay lightweight and responsive
-- Prioritize usability over feature bloat
-- Give users complete ownership of their data
-- Age well with clean architecture and maintainable code
+[![Contribution streak](https://streak-stats.demolab.com?user=dheeraz101&hide_border=true&theme=transparent)](https://github.com/dheeraz101)
 
----
+</div>
 
-## 🛠 Tech Stack
+## Beyond the code
 
-### Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Material3](https://img.shields.io/badge/Material%203-1976D2?style=for-the-badge)
-
----
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+Currently building and improving **Thoughts**, **NoteKar**, and Android experiences; exploring native development and desktop productivity tools; and learning how to make open-source projects easier to use and maintain.
 
 ---
 
-### Database & Storage
+<div align="center">
 
-- SQLite
-- SQLCipher
-- WebDAV
+**Building software that respects people's time, attention, and data.**
 
----
+![Profile views](https://komarev.com/ghpvc/?username=dheeraz101&style=flat-square&color=6e7681&label=PROFILE+VIEWS)
 
-### Tools
-
-- Git
-- GitHub Actions
-- Android Studio
-- VS Code
-- Figma
-
----
-
-### Currently Learning
-
-- Rust
-- Tauri
-- Docker
-- Linux
-- Native Android Development
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=dheeraz101&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dheeraz101&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=dheeraz101)
-
-</p>
-
----
-
-## Profile View
-
-![](https://komarev.com/ghpvc/?username=dheeraz101)
-
----
-
-## 🌱 Currently Working On
-
-- 📝 Thoughts
-- ⏱️ NoteKar
-- 📱 Native Android Development
-- 🖥️ Windows Productivity Applications
-- 🚀 Improving open-source projects
-
----
-
-## 🎯 Current Goals
-
-- Build polished Android experiences
-- Publish more open-source projects
-- Learn modern Android architecture
-- Explore Rust & Tauri
-- Create software that remains useful for years
-
----
-
-## 🤝 Open Source
-
-I believe open source should be:
-
-- Transparent
-- Well documented
-- Privacy respecting
-- Easy to contribute to
-- Built with long-term maintainability in mind
-
-If one of my projects helps you, consider leaving a ⭐ on the repository.
-
----
-
-## 📫 Connect With Me
-
-- 🌐 Portfolio ~ https://dheeraz.netlify.app
-- 🐙 GitHub ~ https://github.com/dheeraz101
-- 📧 Email ~ dv122.8xno0@aleeas.com
-
----
+</div>
